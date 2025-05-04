@@ -1,0 +1,24 @@
+{
+  "name": "programa-ointernet",
+  "version": "1.0.0",
+  "description": "atividade1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1jhonatasss/PROGRAMA-OINTERNET.git"
+  },
+  "author": "Jhonatas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1jhonatasss/PROGRAMA-OINTERNET/issues"
+  },
+  "homepage": "https://github.com/1jhonatasss/PROGRAMA-OINTERNET#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
